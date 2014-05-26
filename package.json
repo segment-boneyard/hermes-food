@@ -1,0 +1,22 @@
+{
+  "name": "hermes-food",
+  "description": "Give Hermes the power to let everyone know when food is ready.",
+  "repository": "git://github.com/segmentio/hermes-food.git",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "pickrand": "0.0.2"
+  },
+  "devDependencies": {
+    "mocha": "1.x",
+    "hermes": "0.x",
+    "once": "^1.3.0"
+  },
+  "keywords": [
+    "hermes",
+    "plugin",
+    "chat",
+    "hubot"
+  ]
+}
