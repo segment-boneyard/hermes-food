@@ -2,7 +2,7 @@
   "name": "hermes-food",
   "description": "Give Hermes the power to let everyone know when food is ready.",
   "repository": "git://github.com/segmentio/hermes-food.git",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
